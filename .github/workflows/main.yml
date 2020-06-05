@@ -1,3 +1,4 @@
+# This is a basic workflow to help you get started with Actions
 name: Gatsby Publish
 
 on:
@@ -10,5 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: npm install
-      - uses: npm run deploy:action
+      
+    # Runs a single command using the runners shell
+      - name: Install dependencies
+        run: npm i
+      - name: Deploy GH Pages
+        run: npm run deploy:action
