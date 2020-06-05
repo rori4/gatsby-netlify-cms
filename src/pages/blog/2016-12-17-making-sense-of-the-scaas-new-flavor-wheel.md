@@ -10,7 +10,7 @@ tags:
   - flavor
   - tasting
 ---
-CHANGES 1.1
+CHANGES 1.2
 
 ![flavor wheel](/img/flavor_wheel.jpg)
 
