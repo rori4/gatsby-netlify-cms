@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-netlify-cms',
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
     description:
