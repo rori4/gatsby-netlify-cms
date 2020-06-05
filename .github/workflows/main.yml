@@ -15,5 +15,9 @@ jobs:
     # Runs a single command using the runners shell
       - name: Install dependencies
         run: npm i
-      - name: Deploy GH Pages
-        run: npm run deploy:action
+      - name: Build
+        run: npm run build
+      - name: GitHub Pages action
+        uses: peaceiris/actions-gh-pages@v3.6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
