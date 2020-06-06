@@ -13,7 +13,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /6856248c00fc7a17368c03e2cf9f4280bd8891ff-48fc76cb6de53e022fe6.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-index-page-js-352346d1e4f1f65281df.js
+/component---src-templates-index-page-js-c57d088af323890ee402.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-about-page-js-736ac9d14d0087395e77.js
   Cache-Control: public, max-age=31536000, immutable
@@ -27,7 +27,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-js-9ba17744de7bea2fa288.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-blog-index-js-75cc395f28eaa0a8a21d.js
+/component---src-pages-blog-index-js-5267ab3ba62f6c3f092d.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-contact-examples-js-7693959fbcc0c315cd40.js
   Cache-Control: public, max-age=31536000, immutable
@@ -39,7 +39,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-tags-index-js-6c4bbb1161c9c274195d.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-86160409aecc72aab52d.js
+/webpack-runtime-c95b40d8f46e3f67a2b1.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-36f018ee4baead1d03ed.js
   Cache-Control: public, max-age=31536000, immutable
@@ -52,18 +52,18 @@
 /sw.js
   Cache-Control: no-cache
 /gatsby-netlify-cms/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/commons-489dd4e66b7d4e3b0a11.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/6856248c00fc7a17368c03e2cf9f4280bd8891ff-48fc76cb6de53e022fe6.js>; rel=preload; as=script
-  Link: </gatsby-netlify-cms/component---src-templates-index-page-js-352346d1e4f1f65281df.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/component---src-templates-index-page-js-c57d088af323890ee402.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/about/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -73,7 +73,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -84,7 +84,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -95,7 +95,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -106,7 +106,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/products/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -117,7 +117,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/products/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/flavor/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -127,7 +127,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/flavor/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/tasting/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -137,7 +137,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/tasting/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/brewing/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -147,7 +147,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/brewing/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/chemex/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -157,7 +157,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/chemex/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/jamaica/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -167,7 +167,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/jamaica/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/green-beans/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -177,7 +177,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/green-beans/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/404/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -187,18 +187,18 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/blog/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/commons-489dd4e66b7d4e3b0a11.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/6856248c00fc7a17368c03e2cf9f4280bd8891ff-48fc76cb6de53e022fe6.js>; rel=preload; as=script
-  Link: </gatsby-netlify-cms/component---src-pages-blog-index-js-75cc395f28eaa0a8a21d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/component---src-pages-blog-index-js-5267ab3ba62f6c3f092d.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/contact/examples/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -208,7 +208,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/contact/examples/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/contact/file-upload/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -218,7 +218,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/contact/file-upload/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/contact/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -228,7 +228,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/contact/thanks/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -238,7 +238,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/contact/thanks/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/tags/
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
@@ -249,7 +249,7 @@
   Link: </gatsby-netlify-cms/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </gatsby-netlify-cms/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
 /gatsby-netlify-cms/404.html
-  Link: </gatsby-netlify-cms/webpack-runtime-86160409aecc72aab52d.js>; rel=preload; as=script
+  Link: </gatsby-netlify-cms/webpack-runtime-c95b40d8f46e3f67a2b1.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/framework-36f018ee4baead1d03ed.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/532a2f07-5eaf3e57aa62a3931643.js>; rel=preload; as=script
   Link: </gatsby-netlify-cms/app-7a5d37b59ed189779de6.js>; rel=preload; as=script
