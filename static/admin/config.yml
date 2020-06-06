@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: rori4/gatsby-netlify-cms
+  base_url: http://167.172.128.73:3000
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
