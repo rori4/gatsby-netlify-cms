@@ -11,7 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      
+      - uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cache
+            **/node_modules
     # Runs a single command using the runners shell
       - name: Install dependencies
         run: npm i
